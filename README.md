@@ -6,6 +6,7 @@
 
 ## Overview
 [![Watch the Tutorial Video](https://img.youtube.com/vi/Zcb-y8NL5j4/maxresdefault.jpg)](https://youtu.be/Zcb-y8NL5j4)
+^ Watch the Tutorial Video!
 
 The `PINO_for_Semiconductor` project aims to accelerate semiconductor device modeling by replacing computationally expensive Technology Computer-Aided Design (TCAD) simulations with Physics-Informed Neural Operators (PINO).
 
