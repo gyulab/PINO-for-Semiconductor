@@ -5,7 +5,8 @@
 > This project leverages the **NVIDIA PhysicsNeMo** framework to implement Physics-Informed Neural Operators (PINO) for high-speed, physics-preserving surrogate modeling of AI-powered semiconductor devices simulation. By utilizing NVIDIA's optimized operator implementations, we can achieve significant acceleration over traditional TCAD and Device Simulation tools while maintaining physical accuracy.
 
 ## Overview
-[![Watch the video](https://img.youtube.com/vi/Zcb-y8NL5j4/maxresdefault.jpg)](https://youtu.be/Zcb-y8NL5j4)
+[![Watch the Tutorial Video](https://img.youtube.com/vi/Zcb-y8NL5j4/maxresdefault.jpg)](https://youtu.be/Zcb-y8NL5j4)
+
 The `PINO_for_Semiconductor` project aims to accelerate semiconductor device modeling by replacing computationally expensive Technology Computer-Aided Design (TCAD) simulations with Physics-Informed Neural Operators (PINO).
 
 At the core of our approach is **NVIDIA PhysicsNeMo**, which provides the robust, differentiable, and GPU-accelerated spectral operators necessary to solve the complex PDEs governing device physics (Poisson, Continuity, and Charge Trap equations).
