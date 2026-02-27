@@ -5,7 +5,7 @@
 > This project leverages the **NVIDIA PhysicsNeMo** framework to implement Physics-Informed Neural Operators (PINO) for high-speed, physics-preserving surrogate modeling of AI-powered semiconductor devices simulation. By utilizing NVIDIA's optimized operator implementations, we can achieve significant acceleration over traditional TCAD and Device Simulation tools while maintaining physical accuracy.
 
 ## Overview
-[![Watch the Tutorial Video](https://img.youtube.com/vi/Zcb-y8NL5j4/maxresdefault.jpg)](https://youtu.be/Zcb-y8NL5j4)
+[![Watch the Tutorial Video](https://youtu.be/hUIz8ZxcY7w/maxresdefault.jpg)](https://youtu.be/hUIz8ZxcY7w)
 ^ Watch the Tutorial Video!
 
 The `PINO_for_Semiconductor` project aims to accelerate semiconductor device modeling by replacing computationally expensive Technology Computer-Aided Design (TCAD) simulations with Physics-Informed Neural Operators (PINO).
@@ -30,7 +30,6 @@ At the core of our approach is **NVIDIA PhysicsNeMo**, which provides the robust
 - `README.md`: Project overview and setup instructions.
 - `docs/`: Additional documentation and resources.
 - `AI-Surrogate-modeling-tutorial.pdf`: Tutorial for AI Surrogate Modeling.
-- `Physics-informed AI Surrogate Modeling for Accelerated Retention Prediction in Ferroelectric Vertical NAND.pdf`: Paper for FeNAND modeling, submitted to ICMC 2026.
 
 ### `code/`
 Contains modular Python scripts for training and inference of PINO-based surrogate models for 3D SONOS NAND flash memory devices:
