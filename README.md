@@ -51,4 +51,3 @@ Training data from AMAT Ginestra simulations is not included in this repository 
 ## References
 - **NVIDIA PhysicsNeMo**: [https://github.com/ NVIDIA/PhysicsNeMo](https://github.com/NVIDIA/PhysicsNeMo)
 - Zongyi Li et al., Physics-Informed Neural Operator for Learning Partial Differential Equations, https://doi.org/10.48550/arXiv.2111.03794.
-- Gyujun Jeong et al., Physics-informed AI Surrogate Modeling for Accelerated Retention Prediction in Ferroelectric Vertical NAND, submitted to ICMC 2026.
